@@ -1,0 +1,20 @@
+﻿  Matrix.cpp
+D:\01_Courses\Nanodegrees\Intro to Self-Driving cars\C++\Matrix\Matrix.cpp(42,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\01_Courses\Nanodegrees\Intro to Self-Driving cars\C++\Matrix\Matrix.cpp(45,27): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\01_Courses\Nanodegrees\Intro to Self-Driving cars\C++\Matrix\Matrix.cpp(66,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\01_Courses\Nanodegrees\Intro to Self-Driving cars\C++\Matrix\Matrix.cpp(68,27): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\01_Courses\Nanodegrees\Intro to Self-Driving cars\C++\Matrix\Matrix.cpp(81,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\01_Courses\Nanodegrees\Intro to Self-Driving cars\C++\Matrix\Matrix.cpp(83,27): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  matrixtest.cpp
+D:\01_Courses\Nanodegrees\Intro to Self-Driving cars\C++\Matrix\matrixtest.cpp(10,51): warning C4305: "Argument": Verkürzung von "double" in "const _Ty"
+          with
+          [
+              _Ty=float
+          ]
+D:\01_Courses\Nanodegrees\Intro to Self-Driving cars\C++\Matrix\matrixtest.cpp(37,50): warning C4305: "Argument": Verkürzung von "double" in "const _Ty"
+          with
+          [
+              _Ty=float
+          ]
+  Code wird generiert...
+  Matrix.vcxproj -> D:\01_Courses\Nanodegrees\Intro to Self-Driving cars\C++\PracticalCPP\Debug\Matrix.exe
